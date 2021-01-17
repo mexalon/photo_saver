@@ -3,7 +3,7 @@
 
 На данный момент умеет скачивать фото из альбомов пользователей ВК, а также фото из Инсты собственного аккаунта. Фото сохраняются на локальный диск либо на Яндекс диск, либо на Гугл Драйв.
 Для выполнения, скрипт нуждается в файлах (соответствующими названиями), содержащих токены для всего перчисленного. 
-1.Для гугл драйва нужен файл credentials.json выдаваемый по инструкции[https://developers.google.com/drive/api/v3/quickstart/python]
-1.Для получения долговременного токена Инсты нужно воспользоваться инструкцией[https://developers.facebook.com/docs/instagram-basic-display-api/getting-started]
-1.Токен Яндекса доступен по ссылке[https://yandex.ru/dev/disk/poligon/]
-1.Токен ВК - инструкция тут[https://vk.com/dev/implicit_flow_user]
+- Для гугл драйва нужен файл credentials.json выдаваемый по [инструкции](https://developers.google.com/drive/api/v3/quickstart/python)
+- Для получения долговременного токена Инсты нужно воспользоваться [инструкцией](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started)
+- Токен Яндекса доступен по [ссылке](https://yandex.ru/dev/disk/poligon/)
+- Токен ВК - инструкция [тут](https://vk.com/dev/implicit_flow_user)
